@@ -13,7 +13,7 @@
 
 # Output:
 # simple interest = p*t*r
-echo "Rihab Kobeisi"
+echo "Rihab Kobeisi - branch"
 echo "Enter the principal:"
 read p
 echo "Enter rate of interest per year:"
